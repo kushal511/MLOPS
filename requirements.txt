@@ -1,0 +1,8 @@
+kafka-python
+pymongo
+python-dotenv
+fastapi
+uvicorn
+joblib
+scikit-learn
+pydantic
